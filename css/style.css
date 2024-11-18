@@ -270,3 +270,14 @@ footer {
   text-align: center;
   font-weight: bold;
 }
+
+.profile-img {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  border-radius: 50%;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
